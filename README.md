@@ -1,4 +1,4 @@
-# 258349_Mini_Projet_Python
+# 258349_Mini_Project_Python
 ## Step IN Candidate Data Management System
 This mini project is used to store the data of candidate and store it in file and using file handling. 
 
